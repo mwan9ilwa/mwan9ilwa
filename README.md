@@ -3,6 +3,7 @@
 
 About me...
 
+```javascript
 const nickname_mwang = {
    my_profession: "Software Engineer" | "Google Cloud Professional",
    my_languages: [Javascript, HTML, CSS, Python, Kotlin],
@@ -13,7 +14,7 @@ const nickname_mwang = {
        influencer: "to be"
        }
 }
-
+```
                          
 
                         
