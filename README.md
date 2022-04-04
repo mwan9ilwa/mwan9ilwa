@@ -16,7 +16,7 @@ const nickname_mwang = {
 }
 ```
                          
-** I'm a Google Cloud Professional and Software Engineer in Lusaka. **
+**I'm a Google Cloud Professional and Software Engineer in Lusaka. 
                      
 
 
