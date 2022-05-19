@@ -6,12 +6,12 @@ About me...
 ```javascript
 const nickname_mwang = {
    my_profession: "Software Engineer" | "Google Cloud Professional",
-   my_languages: [Javascript, HTML, CSS, Python, Kotlin],
+   my_languages: [Javascript, Typescript, HTML, CSS, Python, PHP],
    my_designs: ["i don't design, i just do it."],
    my_future: {
-       learning: "Django, ExpressJS, Angular,Vue,Java",
+       learning: "Django, ExpressJS, Angular, Vue",
        blogging: "I'm just a technical writer",
-       influencer: "to be"
+       influencers: "Tania Rascia, Sam Mbale, Sundai Pichai, "
        }
 }
 ```
