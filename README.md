@@ -4,14 +4,14 @@
 const mwan9ilwa = {
    About: "MERN Stack Developer | Google Cloud Developer | Google Workspace Administrator",
    Tech: [Javascript, Typescript, Python, MongoDB, ExpressJS, React, NodeJS, Firebase ],
-   Website: "mwangilwa.bio.link",
+   Website: "limey.io/mwangilwa",
    Other: {
        Stack: "MERN",
    }
 }
 ```
-<a href="https://www.twitter.com/mwan9ilwa_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mwan9ilwa_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/_mgz03" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/_mgz03?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
