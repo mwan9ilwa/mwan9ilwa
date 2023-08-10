@@ -62,11 +62,11 @@ src="https://img.shields.io/twitter/follow/mayhem_mgz?logo=twitter&style=for-the
 </p>
  
 <a href="https://github.com/mwan9ilwa/github-readme-stats">
-<img height=170 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mwan9ilwa&theme=dark#gh-dark-mode-only" />
+<img height=160 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mwan9ilwa&theme=dark#gh-dark-mode-only" />
 </a>
    
 <a href="https://github.com/mwan9ilwa/github-readme-stats">
-<img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwan9ilwa&layout=compact&theme=dark#gh-dark-mode-only">
+<img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwan9ilwa&layout=compact&theme=dark#gh-dark-mode-only">
 </a>
 </p>
 
