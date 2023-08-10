@@ -62,20 +62,20 @@ src="https://img.shields.io/twitter/follow/mayhem_mgz?logo=twitter&style=for-the
 </p>
  
 <a href="https://github.com/mwan9ilwa/github-readme-stats">
-<img height=176 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mwan9ilwa&theme=dark#gh-dark-mode-only" />
+<img height=170 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mwan9ilwa&theme=dark#gh-dark-mode-only" />
 </a>
    
 <a href="https://github.com/mwan9ilwa/github-readme-stats">
-<img height=176 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwan9ilwa&layout=compact&theme=dark#gh-dark-mode-only">
+<img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwan9ilwa&layout=compact&theme=dark#gh-dark-mode-only">
 </a>
 </p>
 
 <a href="https://github.com/mwan9ilwa/quest">
-<img width=450 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwan9ilwa&repo=quest&theme=dark#gh-dark-mode-only" />
+<img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwan9ilwa&repo=quest&theme=dark#gh-dark-mode-only" />
 </a>
   
 <a href="https://github.com/mwan9ilwa/mayhem">
-<img width=450 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwan9ilwa&repo=mayhem&theme=dark#gh-dark-mode-only" />
+<img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwan9ilwa&repo=mayhem&theme=dark#gh-dark-mode-only" />
 </a>    
 
 # Developer profiles
