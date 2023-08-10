@@ -1,35 +1,98 @@
-## Hi, I am Mwangilwa!
+# Hello there 👋
 
-```javascript
-const mwan9ilwa = {
-   About: "MERN Stack Developer | Google Cloud Developer | Google Workspace Administrator",
-   Tech: [Javascript, Typescript, Python, MongoDB, ExpressJS, React, NodeJS, Firebase ],
-   Website: "limey.io/mwangilwa",
-   Other: {
-       Stack: "MERN",
-   }
-}
-```
-<a href="https://www.twitter.com/_mgz03" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/_mgz03?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+- 👀 I am Mwangilwa,
+- 🚀 Founder of Quest | Google for Developers Explorer | Turning Visions into Code | Let's Innovate Together! 🌟
+- 💻 MERN Stack Developer 🛠️ | Front-End Dev @Izyane 🔍 | Crafting Web Experiences with Passion 💡 | Let's Code the Future!"
+- 👨‍💻 Techie by day, Google for Developers enthusiast by night. I thrive on turning ideas into reality using the magic of Google's tools. From coding with Android Studio to harnessing the power of Google Cloud, I'm all about efficient, innovative solutions. Let's geek out together!"
+- 📸 Adventurous Explorer 🌄 | Freezing Moments with my Google Pixel 📷 | Capturing Life's Beauty One Click at a Time 🌍 | Embracing Thrills and Adventures with Every Shot 🌟
+  
+<a href="https://www.twitter.com/mayhem_mgz" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/mayhem_mgz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-### Skills
+# Tech Stack
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>  
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>  
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  </a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
+  </a>  
+  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" />
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+  </a>  
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=1x&id=WHRLQdbEXQ16&format=png" width="36" height="36" alt="Google Cloud" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=1x&id=13441&format=png" width="36" height="36" alt="Python" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=1x&id=zfHRZ6i1Wg0U&format=png" width="36" height="36" alt="Figma" />
+  </a>
 </p>
 
-<b>My GitHub Stats</b>
+# GitHub Stats
+ 
+<a href="https://github.com/mwan9ilwa/github-readme-stats#gh-dark-mode-only" >
+<img height=182 align="center" src="https://github-readme-stats.vercel.app/api?username=mwan9ilwa&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/mwan9ilwa/github-readme-stats#gh-dark-mode-only">
+<img height=182 align="center" src="https://streak-stats.demolab.com/?user=mwan9ilwa&theme=dark#gh-dark-mode-only" alt="Mwangilwa's GitHub Stats" />
+</a>
+</p>
+ 
+<a href="https://github.com/mwan9ilwa/github-readme-stats">
+<img height=176 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mwan9ilwa&theme=dark#gh-dark-mode-only" />
+</a>
+   
+<a href="https://github.com/mwan9ilwa/github-readme-stats">
+<img height=176 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwan9ilwa&layout=compact&theme=dark#gh-dark-mode-only">
+</a>
+</p>
 
-<a href="http://www.github.com/mwan9ilwa"><img src="https://github-readme-stats.vercel.app/api?username=mwan9ilwa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mwan9ilwa's GitHub stats" /></a>
+<a href="https://github.com/mwan9ilwa/quest">
+<img width=450 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwan9ilwa&repo=quest&theme=dark#gh-dark-mode-only" />
+</a>
+  
+<a href="https://github.com/mwan9ilwa/mayhem">
+<img width=450 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwan9ilwa&repo=mayhem&theme=dark#gh-dark-mode-only" />
+</a>    
 
-<a href="http://www.github.com/mwan9ilwa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mwan9ilwa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+     
+
+# Developer profiles
+<p align="left">
+<a href="https://g.dev/mwan9ilwa" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v85f54088ef7777280c83d69d659572c5ef9931b8141761ffdab023f32799d208/developers/images/lockup-new.svg" alt="mwan9ilwa" height="36" width="200" /></a> &emsp;
+</p>
+
+# Operating System
+<p align="left">
+<img src="https://img.shields.io/badge/linux%20os-000000?style=for-the-badge&logo=linux&logoColor=white" width="100px" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="100px" />
+</p>
+
+# Profile Views
+<br>
+
+![Visitor Count](https://profile-counter.glitch.me/{mwan9ilwa}/count.svg)
+
