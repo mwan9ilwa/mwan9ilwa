@@ -70,8 +70,8 @@ src="https://img.shields.io/twitter/follow/mayhem_mgz?logo=twitter&style=for-the
 </a>
 </p>
 
-<a href="https://github.com/mwan9ilwa/quest">
-<img width=420 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwan9ilwa&repo=quest&theme=dark#gh-dark-mode-only" />
+<a href="https://github.com/mwan9ilwa/solid">
+<img width=420 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwan9ilwa&repo=solid&theme=dark#gh-dark-mode-only" />
 </a>
   
 <a href="https://github.com/mwan9ilwa/mayhem">
