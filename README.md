@@ -64,15 +64,17 @@ src="https://img.shields.io/twitter/follow/_mz2303_?logo=twitter&style=for-the-b
 <a href="https://github.com/mwan9ilwa/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwan9ilwa&layout=compact&theme=dark#gh-dark-mode-only">
 </a>
+
+<a href="https://github.com/mwan9ilwa/mayhem">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwan9ilwa&repo=mayhem&theme=dark#gh-dark-mode-only" />
+</a> 
 </p>
 
 <a href="https://github.com/mwan9ilwa/solid">
 <img width=420 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwan9ilwa&repo=solid&theme=dark#gh-dark-mode-only" />
 </a>
   
-<a href="https://github.com/mwan9ilwa/mayhem">
-<img width=420 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwan9ilwa&repo=mayhem&theme=dark#gh-dark-mode-only" />
-</a>    
+   
 
 # Developer profiles
 <p align="left">
