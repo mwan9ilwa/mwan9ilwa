@@ -54,13 +54,13 @@ src="https://img.shields.io/twitter/follow/_mz2303_?logo=twitter&style=for-the-b
 # GitHub Stats
  
 <a href="https://github.com/mwan9ilwa/github-readme-stats#gh-dark-mode-only" >
-<img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=mwan9ilwa&show_icons=true&theme=dark#gh-dark-mode-only" />
+<img height=170 width=320 align="center" src="https://github-readme-stats.vercel.app/api?username=mwan9ilwa&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/mwan9ilwa/github-readme-stats#gh-dark-mode-only">
-<img height=170 align="center" src="https://streak-stats.demolab.com/?user=mwan9ilwa&theme=dark#gh-dark-mode-only" alt="Mwangilwa's GitHub Stats" />
+<img height=170 width=320 align="center" src="https://streak-stats.demolab.com/?user=mwan9ilwa&theme=dark#gh-dark-mode-only" alt="Mwangilwa's GitHub Stats" />
 </a>
 <a href="https://github.com/mwan9ilwa/github-readme-stats">
-<img height=164 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwan9ilwa&layout=compact&theme=dark#gh-dark-mode-only">
+<img height=164 width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwan9ilwa&layout=compact&theme=dark#gh-dark-mode-only">
 </a>
 </p>
 
