@@ -1,13 +1,13 @@
 # Hello there 👋
 
 - 👀 I am Mwangilwa,
-- 🚀 Founder of Quest | Google for Developers Explorer | Turning Visions into Code | Let's Innovate Together! 🌟
-- 💻 MERN Stack Developer 🛠️ | Front-End Dev @Izyane 🔍 | Crafting Web Experiences with Passion 💡 | Let's Code the Future!"
-- 👨‍💻 Techie by day, Google for Developers enthusiast by night. I thrive on turning ideas into reality using the magic of Google's tools. From coding with Android Studio to harnessing the power of Google Cloud, I'm all about efficient, innovative solutions. Let's geek out together!"
-- 📸 Adventurous Explorer 🌄 | Freezing Moments with my Google Pixel 📷 | Capturing Life's Beauty One Click at a Time 🌍 | Embracing Thrills and Adventures with Every Shot 🌟
+- 🚀 Founder of Quest | Google for Developers Enthusiast | Turning Visions into Code | Let's Innovate Together! 🌟
+- 💻 MERN Stack Developer 🛠️ | Lead Front-End Dev @Izyane InovSolutions🔍
+- 👨‍💻 Techie by day, Gamer by night. I thrive on turning ideas into reality. I'm all about efficient, innovative solutions. Let's geek out together!"
+- 📸 Adventurous Explorer 🌄 | Google Pixel SuperFan 📷
   
-<a href="https://www.twitter.com/mayhem_mgz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mayhem_mgz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/_mz2303_" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/_mz2303_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 # Tech Stack
@@ -60,10 +60,6 @@ src="https://img.shields.io/twitter/follow/mayhem_mgz?logo=twitter&style=for-the
 <img height=170 align="center" src="https://streak-stats.demolab.com/?user=mwan9ilwa&theme=dark#gh-dark-mode-only" alt="Mwangilwa's GitHub Stats" />
 </a>
 </p>
- 
-<a href="https://github.com/mwan9ilwa/github-readme-stats">
-<img height=164 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mwan9ilwa&theme=dark#gh-dark-mode-only" />
-</a>
    
 <a href="https://github.com/mwan9ilwa/github-readme-stats">
 <img height=164 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwan9ilwa&layout=compact&theme=dark#gh-dark-mode-only">
