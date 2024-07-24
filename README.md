@@ -1,12 +1,11 @@
-# Hello there 👋
+# Hello there 👋 this is Mwangilwa Zimba
 
-- 👀 I am Mwangilwa,
-- 🚀 Founder of Quest | Google for Developers Enthusiast | Turning Visions into Code | Let's Innovate Together! 🌟
-- 💻 MERN Stack Developer 🛠️ | Lead Front-End Dev @Izyane InovSolutions🔍
+- 🚀 I'm Software Engineer & Google for Developers Enthusiast
+- 💻 Google Cloud Developer <a href="https://mpelembe.net" target="_blank">Mpelembe Network</a> | Lead Front-End Dev <a href="https://izyane.com" target="_blank">Izyane InovSolutions</a>
 - 👨‍💻 Techie by day, Gamer by night. I thrive on turning ideas into reality. I'm all about efficient, innovative solutions. Let's geek out together!"
 - 📸 Adventurous Explorer 🌄 | Google Pixel SuperFan 📷
   
-<a href="https://www.twitter.com/_mz2303_" target="_blank" rel="noreferrer"><img
+<a href="https://x.com/iam_M23" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_mz2303_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
