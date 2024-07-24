@@ -5,9 +5,10 @@
 - 👨‍💻 Techie by day, Gamer by night. I thrive on turning ideas into reality. I'm all about efficient, innovative solutions. Let's geek out together!"
 - 📸 Adventurous Explorer 🌄 | Google Pixel SuperFan 📷
   
-<a href="https://x.com/iam_M23" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/x/follow/iam_M23?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+# Connect with me
+<p align="left">
+<a href="https://x.com/iam_M23" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" alt="Aryansharma9917" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mwan9ilwa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavya-sachdeva9/" height="30" width="40" /></a>
 
 # Tech Stack
 
