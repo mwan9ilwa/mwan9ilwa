@@ -7,7 +7,7 @@
   
 # Connect with me
 <p align="left">
-<a href="https://x.com/iam_M23" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="Mwangilwa Zimba" height="40" width="40" /></a>
+<a href="https://x.com/mwan9i" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="Mwangilwa Zimba" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/mwan9ilwa/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="Mwangilwa Zimba" height="40" width="40" /></a>
 
 # Tech Stack
