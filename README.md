@@ -4,15 +4,12 @@
 - 💻 Google Cloud Developer <a href="https://mpelembe.net" target="_blank">Mpelembe Network</a> | Frontend Engineer <a href="https://izyane.com" target="_blank">Izyane InovSolutions</a>
 - 👨‍💻 Techie by day, Gamer by night. I thrive on turning ideas into reality. I'm all about efficient, innovative solutions. Let's geek out together!"
 - 📸 Adventurous Explorer 🌄 | Google Pixel SuperFan 📷
-  
-# Connect with me
-<p align="left">
-<a href="https://x.com/mwan9i" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="Mwangilwa Zimba" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/mwan9ilwa/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="Mwangilwa Zimba" height="40" width="40" /></a>
+
 
 # Tech Stack
 
 <p align="left">
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   </a>
@@ -59,19 +56,22 @@
 <a href="https://git.io/streak-stats">
   <img src="https://git-hub-streak-stats.vercel.app?user=mwan9ilwa&theme=github-dark-blue" alt="GitHub Streak" />
 </a>
+<!-- <a href="https://git.io/streak-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwan9ilwa&layout=compact&theme=github-dark-blue" alt="GitHub Streak" />
+</a> -->
 
-# Developer profiles
-<p align="left">
-<a href="https://g.dev/mwan9ilwa" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v85f54088ef7777280c83d69d659572c5ef9931b8141761ffdab023f32799d208/developers/images/lockup-new.svg" alt="mwan9ilwa" height="36" width="200" /></a> &emsp;
-</p>
+# Google Developer Enthusiast
 
-# Operating System
-<p align="left">
-<img src="https://img.shields.io/badge/linux%20os-000000?style=for-the-badge&logo=linux&logoColor=white" width="100px" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="100px" />
-</p>
+<img src="https://www.gstatic.com/devrel-devsite/prod/vbddb2c68c6e27c8062b052e877e6ccde82ab61ee731962a34dca560b12d02759/android/images/lockup.svg" alt="mwan9ilwa" height="25" width=""/>
+<img src="https://www.gstatic.com/devrel-devsite/prod/vbddb2c68c6e27c8062b052e877e6ccde82ab61ee731962a34dca560b12d02759/developers/images/lockup-new.svg" alt="mwan9ilwa" height="35" width="" />
+<img src="https://www.gstatic.com/devrel-devsite/prod/v0e0f589edd85502a40d78d7d0825db8ea5ef3b99ab4070381ee86977c9168730/cloud/images/cloud-logo.svg" alt="mwan9ilwa" height="25" width="" />
+<img src="https://www.gstatic.com/devrel-devsite/prod/vbddb2c68c6e27c8062b052e877e6ccde82ab61ee731962a34dca560b12d02759/googledevai/images/lockup-new.svg" alt="mwan9ilwa" height="38" width="" />
+<img src="https://www.gstatic.com/devrel-devsite/prod/vbddb2c68c6e27c8062b052e877e6ccde82ab61ee731962a34dca560b12d02759/firebase/images/lockup.svg" alt="mwan9ilwa" height="35" width="" />
+<img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" alt="mwan9ilwa" height="25" width="" />
+
 
 # Profile Views
 <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/{mwan9ilwa}/count.svg)
+
