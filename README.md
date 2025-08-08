@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Software Engineer based in Lusaka. I build elegant, high-performance user interfaces with a focus on user experience and clean code.
+Software Engineer based in Lusaka. I build elegant, high-performance user interfaces with a focus on user experience and clean code.
 <br>
 Outside of work, I enjoy exploring the latest tech trends, capturing moments through photography, and unwinding with my Xbox.
  
