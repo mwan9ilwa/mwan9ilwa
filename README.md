@@ -1,7 +1,7 @@
 # Hi there 👋
 
-I'm a Software Engineer based in Lusaka.
-Google Cloud Developer <a href="https://mpelembe.net" target="_blank">Mpelembe Network</a> | Frontend Engineer <a href="https://izyane.com" target="_blank">Izyane InovSolutions</a>
+I'm a Software Engineer based in Lusaka. I build elegant, high-performance user interfaces with a focus on user experience and clean code.
+<br>
 Outside of work, I enjoy exploring the latest tech trends, capturing moments through photography, and unwinding with my Xbox.
  
 <a href="https://github-readme-stats.vercel.app">
